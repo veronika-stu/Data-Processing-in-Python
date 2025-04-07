@@ -2,15 +2,18 @@
 
 The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Luboš Hanus](mailto:lubos.hanus@fsv.cuni.cz) and [Vilém Krejcar](mailto:vilem.krejcar@fsv.cuni.cz).
 
-<!-- 
-------
-## For students of Winter semester 2024/2025
+## Upcoming
 
-* Final project **deadline**: 6th of February 2025, **send link to your project github repository** via e-mail to both of us Luboš Hanus and Vilém Krejcar. 
-------
--->
+1) Submissions of project proposals
+2) Work-in-progress consultations
+3) Project submissions
 
-## Informaton for the upcoming summer semester 2025
+Final project **deadline**: September 2025, but preferably **before 16th of June, 2025** (midnight).
+
+- **Send link to your project github repository** via e-mail to both of us Luboš Hanus and Vilém Krejcar.
+
+
+## Information for the summer semester of 2025
 
 ## FAQ - pre semester
 
@@ -18,7 +21,7 @@ The course site for Data Processing in Python (JEM207) at IES FSV CUNI. See info
 
 * The course is held **in-person** and there is by default **no online** option.
 
-## Schedule (updated Feb 17)
+## Schedule (updated March 31)
 
 Here's your schedule with the semester beginning on February 17th:  
 
@@ -30,18 +33,18 @@ Here's your schedule with the semester beginning on February 17th:
 | 2 | 25/2 | S | Seminar 1: Basics | Vilém | |
 | 3 | 3/3 | L | Numpy | Luboš | HW 1 |
 | 4 | 10/3 | L | Pandas I | Luboš | |
-| 4 | 11/3 | - | - | - | HW 2 |
+| 4 | 11/3 | S | Seminar 2: Numpy & pandas | Luboš | HW 2 |
 | 5 | 17/3 | L | Pandas II + Matplotlib  | Luboš | |
-| 5 | 18/3 | S | Seminar 2: Numpy & pandas | Vilém | |
+| 5 | 18/3 | S | Seminar 3: Data formats & APIs | Vilém | - |
 | 6 | 24/3 | L | Data formats, APIs | Luboš | HW 3 |
-| 6 | 25/3 | S | Seminar 3: Data formats & APIs | Vilém | - |
 | 7 | 31/3 | - | **MIDTERM** | Luboš & Vilém | |
-| 7 | 1/4 | S | Seminar 4: Midterm solution | Vilém | |
+| 7 | 1/4 | S | Seminar 4: Midterm solution | Luboš | |
 | 8 | 7/4 | L | Algorithmic problem solving | Luboš | |
 | 9 | 14/4 | L | Data science | Luboš | |
+| 9 | 15/4 | S | Seminar 5: Data science case-study | Vilém | |
 | 10 | 21/4 | - | No lecture - The Easter Monday | | |
 | 11 | 28/4 | L | How to code (avoiding spaghetti code) | Luboš | |
-| 11 | 29/4 | S | Seminar 5: Data science case-study | Vilém | Project proposal approval|
+| 11 | 29/4 | - |  | Luboš & Vilém | Project proposal approval|
 | 12 | 5/5 | L | Mixed topics: pkg, tests, docs, sql | Luboš |  |
 | 13 | 12/5 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
 | 14 | 19/5 | - | | | |
@@ -63,12 +66,11 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 ### Final project (60%)
 
 * Students in teams by 2
-* Matching spreadsheet if you are alone :) [HERE](https://docs.google.com/spreadsheets/d/1i35pSZcNPoxzA7_RwpYkGdjvlNV8YXt2SdojpBzLV-w/edit?usp=sharing)
+<!-- * Submit your proposal here [TBA] -->
 * [Submit you proposal here](https://forms.gle/Lo1c2YxTQkwewRuL7)
 * Deadline for topic approval: 22nd of April 2025
 * Deadline to attend the WiP consultation: 6th of June 2025
 * Deadline for completed project: 16th of June 2025 (possibly in September - not prefered)
-
 
 #### Projects' Evaluation criteria
 
