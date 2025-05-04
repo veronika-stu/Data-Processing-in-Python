@@ -48,7 +48,7 @@ Here's your schedule with the semester beginning on February 17th:
 | 11 | 28/4 | L | How to code (avoiding spaghetti code) | Luboš | |
 | 11 | 29/4 | - |  | Luboš & Vilém | Project proposal approval|
 | 12 | 5/5 | L | Mixed topics: pkg, tests, docs, sql | Luboš |  |
-| 13 | 12/5 | L | Guest Lecture: TBA, Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
+| 13 | 12/5 | L | Guest Lecture: František Kaláb & Benedikt Kotmel from [Golemio](https://golemio.cz/english), Beer with the guest and class-members after the lecture at TBA, 8:15pm | Luboš & Vilém | |
 | 14 | 19/5 | - | | | |
 | 15 | 26/5-28/5 | - | **WiP:** Project consultations | Luboš & Vilém | |
 | 16 | 2/6-6/6 | - | **WiP:** Project consultations | Luboš & Vilém | |
@@ -71,8 +71,8 @@ At least 50% from the **homeworks assignments** and **work-in-progress** present
 <!-- * Submit your proposal here [TBA] -->
 * [Submit you proposal here](https://forms.gle/Lo1c2YxTQkwewRuL7)
 * Deadline for topic submission (week to consult): 22nd of April 2025
-* Deadline to attend the WiP consultation: 6th of June 2025
-* Deadline for completed project: 16th of June 2025 (possibly in September - not prefered)
+* Deadline to attend the WiP consultation: 6th of June 2025, [link to book meeting](https://docs.google.com/spreadsheets/d/16iAHASVecjxen7hiAfzkIUTuAKUd9ygXm7OsxmAb9KE/edit?usp=sharing)
+* Deadline for completed project: 16th of June 2025 (can be postponed upon request, also possibly in September - but not prefered)
 
 #### Projects' Evaluation criteria
 
